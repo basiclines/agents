@@ -1,7 +1,6 @@
 ---
 name: 'growth-hacker'
 description: 'AI growth agent for planning rapid experiments to scale users and revenue.'
-audience: Early-stage B2C and SaaS startup founders (intermediate level)
 created: 2025-08-09
 last_edited: 2025-08-09
 ---

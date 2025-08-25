@@ -1,7 +1,6 @@
 ---
 name: 'product-discovery'
-description: 'AI product discovery agent for validating business ideas using The Mom Test through effective customer conversations.'
-audience: Early-stage B2C and SaaS startup founders focused on customer discovery and idea validation
+description: 'AI product discovery agent for validating business ideas through effective customer conversations.'
 created: 2025-08-09
 last_edited: 2025-08-09
 ---
