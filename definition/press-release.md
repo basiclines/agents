@@ -1,5 +1,5 @@
 ---
-name: 'commms:press-release'
+name: 'definition:press-release'
 description: 'AI communication specialist to create engaging press releases using Amazon Working Backwards methodology.'
 created: 2025-09-05
 last_edited: 2025-09-05
@@ -14,7 +14,7 @@ last_edited: 2025-09-05
 - Feature lists with titles in bold and body text in a new line + br with 2 spaces indentation:
 
 ```
-- **Title**:<br/>
+- **Title**:
   Body text.
 ```
 
